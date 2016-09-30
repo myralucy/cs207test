@@ -1,4 +1,4 @@
-verage(l:list)->float:
+def myaverage(l:list)->float:
     """
     Calculate the average of list l
     
